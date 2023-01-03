@@ -1,2 +1,4 @@
-# gRPC-Example-BackEnd
-This repository is used as an example for a gRPC service. It provides the back-end for a more complex example that also includes a front-end.
+# gRPC-Example 
+This repository is used as an example for a gRPC service with corresponding UI.
+
+The backend is build with dotnet and c# whilst the frontend uses vueJS.
